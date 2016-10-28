@@ -1,0 +1,3 @@
+// the configured options and settings for Test App
+#define TestApp_VERSION_MAJOR @TestApp_VERSION_MAJOR@
+#define TestApp_VERSION_MINOR @TestApp_VERSION_MINOR@
